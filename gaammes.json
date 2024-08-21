@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Cyberpunk 2077",
+    "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5",
+    "description": "Un jeu d'action RPG en monde ouvert dans un futur dystopique.",
+    "developer": "CD Projekt",
+    "release_date": "10 décembre 2020"
+  },
+  {
+    "name": "The Witcher 3",
+    "image": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQT8CAaXXLoP96rbd4XzKB9uKAUkP9xScDNF-OXW-MxcxYOCR_kIfs12nG0-Bvz4P_V-E0obVEDEH8e8uiaaeS4dY2tF6iOJMaAe.jpg?r=051",
+    "description": "Un RPG acclamé par la critique mettant en scène Geralt de Riv.",
+    "developer": "CD Projekt",
+    "release_date": "19 mai 2015"
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "image": "https://cdn1.epicgames.com/offer/3b8f12cdeab942ce8d5291ea53d63c3d/EGS_RedDeadRedemption2_RockstarGames_S2_2560x1440-46a3a4ed0e76b44e7d1d54c2a80a650c",
+    "description": "Un jeu d'action et d'aventure en monde ouvert se déroulant à la fin du 19e siècle.",
+    "developer": "Rockstar Games",
+    "release_date": "5 novembre 2018"
+  },
+  {
+    "name": "Assassin's Creed Valhalla",
+    "image": "https://cdn1.epicgames.com/offer/0c5b2d7efb054c9f9d78c2f3a3d9e4a4/EGS_AssassinsCreedValhalla_Ubisoft_S2_2560x1440-3c64b7fc9c28b7d0c092c7c8b080e73d",
+    "description": "Un RPG d'action dans lequel vous explorez la période des Vikings.",
+    "developer": "Ubisoft",
+    "release_date": "10 novembre 2020"
+  },
+  {
+    "name": "Hades",
+    "image": "https://cdn1.epicgames.com/offer/9e4d0813b7d9489cbdffba5c1d3b6d16/EGS_Hades_SupergiantGames_S2_2560x1440-53a3c28348d4b94e9e8b393a40d045d5",
+    "description": "Un rogue-like d'action où vous incarnez Zagreus, le fils d'Hadès, essayant d'échapper aux Enfers.",
+    "developer": "Supergiant Games",
+    "release_date": "17 septembre 2020"
+  },
+  {
+    "name": "Dying Light 2",
+    "image": "https://cdn1.epicgames.com/offer/a64f8df29e0d4e7bb1ff7df497f77f2d/EGS_DyingLight2_Techland_S2_2560x1440-94c116ceae1eac78da4f62390540b2f1",
+    "description": "Un jeu d'action et de survie dans un monde ouvert infesté de zombies.",
+    "developer": "Techland",
+    "release_date": "4 février 2022"
+  },
+  {
+    "name": "Far Cry 6",
+    "image": "https://cdn1.epicgames.com/offer/0d8d3e9f17ff438b9f0135b34f4e1e77/EGS_FarCry6_Ubisoft_S2_2560x1440-f8301cb469e93a0e85c8348072ae7ff8",
+    "description": "Un jeu de tir en monde ouvert où vous luttez contre un dictateur dans un paradis tropical.",
+    "developer": "Ubisoft",
+    "release_date": "7 octobre 2021"
+  },
+  {
+    "name": "Watch Dogs: Legion",
+    "image": "https://cdn1.epicgames.com/offer/5a0d1b4824d24d5b96c5b63987f80c3a/EGS_WatchDogsLegion_Ubisoft_S2_2560x1440-d06cbbcb6dd8b9eb38e4e496ae4b5e93",
+    "description": "Un jeu d'action-aventure dans un Londres dystopique où vous pouvez recruter et jouer avec n'importe quel personnage.",
+    "developer": "Ubisoft",
+    "release_date": "29 octobre 2020"
+  },
+  {
+    "name": "Metro Exodus",
+    "image": "https://cdn1.epicgames.com/offer/80e87f7dff774f4bb154d2b929be2cf6/EGS_MetroExodus_4A_Games_S2_2560x1440-ef24e12a09b42bfb4b60472f229c5fd1",
+    "description": "Un jeu de tir en monde ouvert se déroulant dans un monde post-apocalyptique.",
+    "developer": "4A Games",
+    "release_date": "15 février 2019"
+  },
+  {
+    "name": "Control",
+    "image": "https://cdn1.epicgames.com/offer/7b49e2cbf3b34fc8a7e6f6f5a28b65dd/EGS_Control_Remedy_S2_2560x1440-c438feee674f8e0f5456d9c8db8d626f",
+    "description": "Un jeu d'action-aventure où vous explorez un bâtiment mystérieux rempli de phénomènes paranormaux.",
+    "developer": "Remedy Entertainment",
+    "release_date": "27 août 2019"
+  },
+  {
+    "name": "GTA V",
+    "image": "https://cdn1.epicgames.com/offer/3f85e8d33f434a519f5c6c6474a84dcf/EGS_GTAV_RockstarGames_S2_2560x1440-f0f8cf084d8d49db9bde3acff03a8d40",
+    "description": "Un jeu d'action-aventure en monde ouvert avec une histoire captivante et un vaste monde à explorer.",
+    "developer": "Rockstar Games",
+    "release_date": "14 avril 2015"
+  },
+  {
+    "name": "Tomb Raider",
+    "image": "https://cdn1.epicgames.com/offer/8b2f0df7fa444f1a90a596d9cb08d227/EGS_TombRaider_SquareEnix_S2_2560x1440-8d1dbb7f2b1d4b9c964d65b6d92d635a",
+    "description": "Un jeu d'action-aventure où vous incarnez Lara Croft dans sa quête pour découvrir des secrets anciens.",
+    "developer": "Crystal Dynamics",
+    "release_date": "5 mars 2013"
+  }
+]
