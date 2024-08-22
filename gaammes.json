@@ -1,5 +1,82 @@
 [
   {
+    "name": "Death Stranding",
+    "image": "https://cdn1.epicgames.com/offer/0a9e3c5ab6684506bd624a849ca0cf39/EGS_DeathStrandingDirectorsCut_KOJIMAPRODUCTIONS_S4_1200x1600-5f99e16507795f9b497716b470cfd876",
+    "description": "Un jeu d'action-aventure où vous incarnez un livreur dans un monde post-apocalyptique.",
+    "developer": "Kojima Productions",
+    "release_date": "8 novembre 2019"
+  },
+  {
+    "name": "Gears 5",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Gears_5_cover_art.png",
+    "description": "Un jeu de tir à la troisième personne où vous combattez des hordes d'ennemis dans un monde dévasté.",
+    "developer": "The Coalition",
+    "release_date": "10 septembre 2019"
+  },
+  {
+    "name": "Among Us",
+    "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/software/switch/70010000036098/desc/fba63c09f4dd41c841f23474840c8f5fe4d5378aae37a94ff39adfffa7ef0c11",
+    "description": "Un jeu multijoueur de déduction sociale où vous essayez de découvrir qui est l'imposteur parmi l'équipage.",
+    "developer": "InnerSloth",
+    "release_date": "15 novembre 2018"
+  },
+  {
+    "name": "Rocket League",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg",
+    "description": "Un jeu de football avec des voitures où vous faites des cascades pour marquer des buts.",
+    "developer": "Psyonix",
+    "release_date": "7 juillet 2015"
+  },
+  {
+    "name": "Battlefield V",
+    "image": "https://image.api.playstation.com/cdn/EP0006/CUSA08670_00/l2B6pYvxHDYUjuhT0vTHcidJA2MpjWR4.png",
+    "description": "Un jeu de tir à la première personne se déroulant pendant la Seconde Guerre mondiale.",
+    "developer": "DICE",
+    "release_date": "20 novembre 2018"
+  },
+  {
+    "name": "Star Wars Jedi: Fallen Order",
+    "image": "https://image.api.playstation.com/vulcan/img/rnd/202105/1714/WHeOu95nW2SZQy6H5IKgE2Bg.png",
+    "description": "Un jeu d'action-aventure en solo dans l'univers de Star Wars, avec des combats au sabre laser.",
+    "developer": "Respawn Entertainment",
+    "release_date": "15 novembre 2019"
+  },
+  {
+    "name": "A Plague Tale: Innocence",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2216/uFqCClqXSIsEFIo3ktJdZm7H.png",
+    "description": "Un jeu d'action-aventure qui suit deux enfants dans une France médiévale ravagée par la peste.",
+    "developer": "Asobo Studio",
+    "release_date": "14 mai 2019"
+  },
+  {
+    "name": "Subnautica",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/capsule_616x353.jpg?t=1721004725",
+    "description": "Un jeu de survie sous-marin où vous explorez les profondeurs d'une planète océanique.",
+    "developer": "Unknown Worlds Entertainment",
+    "release_date": "23 janvier 2018"
+  },
+  {
+    "name": "Kingdom Come: Deliverance",
+    "image": "https://cdn1.epicgames.com/undefined/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+    "description": "Un RPG médiéval à monde ouvert avec un accent sur le réalisme et l'histoire.",
+    "developer": "Warhorse Studios",
+    "release_date": "13 février 2018"
+  },
+  {
+    "name": "The Outer Worlds",
+    "image": "https://image.api.playstation.com/vulcan/img/cfn/11307DWVuREjDv3JnXusQxTjHIJHzhxx2_CUkUzQhzwYe5KUktTVe2_rFsnYYa1hMNlqHrWemXr0Nut__AF2KWPJp84uBZvf.png",
+    "description": "Un RPG de science-fiction se déroulant dans un univers alternatif où les mégacorporations contrôlent tout.",
+    "developer": "Obsidian Entertainment",
+    "release_date": "25 octobre 2019"
+  },
+  {
+    "name": "Divinity: Original Sin 2",
+    "image": "https://image.api.playstation.com/cdn/EP3383/CUSA11898_00/qCNa6hRH1XzGkRoUdKnNS0Zon3GMomx3.png",
+    "description": "Un RPG stratégique où vous explorez un monde fantastique et engagez des combats au tour par tour.",
+    "developer": "Larian Studios",
+    "release_date": "14 septembre 2017"
+  }
+  {
     "name": "Cyberpunk 2077",
     "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5",
     "description": "Un jeu d'action RPG en monde ouvert dans un futur dystopique.",
